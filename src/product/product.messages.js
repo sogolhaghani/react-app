@@ -1,0 +1,30 @@
+const messages = {
+    entity: 'محصولات و خدمات',
+    id : 'شناسه' ,
+    name : 'نام',
+    code : 'کد',
+    save: 'ثبت',
+    cancel:'انصراف',
+    form : 'فرم',
+    productType : 'نوع محصول',
+    type:'نوع',
+    groupType:'نوع گروه',
+    group:'گروه',
+    hasIncome:'درآمدی',
+    driver:'سنجه',
+    selected: 'انتخاب شده',
+    new_entity: 'ایجاد',
+    name_required : 'نام پر نشده است',
+    code_required : 'کد پر نشده است',
+    productType_required : 'نوع محصول پر نشده است',
+    groupType_required : 'نوع گروه پر نشده است',
+    type_required : 'نوع پر نشده است',
+    group_required : 'گروه پر نشده است',
+    CONSUMABLE:'مصارف',
+    SOURCE:'منابع',
+    OTHER:'سایر',
+    PRIMARY:'اصلی',
+    SUBSIDIARY:'فرعی'
+    
+}
+export default messages

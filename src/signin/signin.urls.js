@@ -1,0 +1,1 @@
+export const AUTHENTICATION_URL = '/api/authentication'
